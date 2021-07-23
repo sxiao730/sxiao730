@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Shan! @sxiao730 What's up?! 
-- 👀 I’m interested in Neuroplasticity, Stress Management, Wellness & Mental Health, and Photography
+- 👋 Hey, I’m Shan! @sxiao730 WELCOME!
+- 👀 I’m a data analyst in Healthcare field. I'm interested in Neuroplasticity, Stress Management, Wellness & Mental Health, and Photography
 - 🌱 I’m currently learning Data Science & Nursing
 - 💞️ I’m looking to collaborate on projects that are   
       - data analysis in the Healthcare field using Python/R  
