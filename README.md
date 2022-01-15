@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that are   
       - data analysis in the Healthcare field using Python/R  
       - making learning process easier (especially interested in Nursing school subjects like Pharmacology, NCLEX prep, etc.)         
-      - in related to innovative care delievery / Population Health / Patient Education   
+      - in related to innovative Care Delievery / Population Health / Patient Education   
 
 - 📫 You can reach me via sxiao730@gmail.com :)
 
